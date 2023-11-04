@@ -1,0 +1,10 @@
+version: '3.1'
+nlu:
+  - intent: sample_intent_1
+    examples: |
+      - sample_keyword_1
+      - sample_keyword_2
+  - intent: sample_intent_1
+    examples: |
+      - sample_keyword_3
+      - sample_keyword_4 
